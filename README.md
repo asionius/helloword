@@ -1,2 +1,2 @@
-helloword
+ an awesome program named helloword
 =========
